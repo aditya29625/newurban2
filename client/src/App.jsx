@@ -20,8 +20,8 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-// ✅ Pointing to local backend
-const API_BASE = 'http://localhost:5000/api';
+// ✅ Uses env variable in production (Vercel), falls back to localhost in dev
+const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:5000/api';
 
 // ------------------------------------------------
 // Helper: map center updater
