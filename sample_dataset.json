@@ -1,0 +1,32 @@
+[
+  {
+    "area_name": "Mohali Sector 70",
+    "price_growth": 12,
+    "listing_density": 150,
+    "infrastructure_score": 8
+  },
+  {
+    "area_name": "Zirakpur VIP Road",
+    "price_growth": 10,
+    "listing_density": 200,
+    "infrastructure_score": 7
+  },
+  {
+    "area_name": "Kharar Landran Road",
+    "price_growth": 8,
+    "listing_density": 120,
+    "infrastructure_score": 6
+  },
+  {
+    "area_name": "Chandigarh Sector 22",
+    "price_growth": 6,
+    "listing_density": 90,
+    "infrastructure_score": 9
+  },
+  {
+    "area_name": "Aerocity Mohali",
+    "price_growth": 14,
+    "listing_density": 180,
+    "infrastructure_score": 9
+  }
+]
