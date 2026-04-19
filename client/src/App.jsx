@@ -13,7 +13,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
 });
 
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = 'https://urbandev-qtph.onrender.com/api';
 
 const UpdateMapCenter = ({ areas }) => {
   const map = useMap();
