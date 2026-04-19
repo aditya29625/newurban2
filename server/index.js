@@ -6,7 +6,14 @@ const fs      = require('fs');
 const path    = require('path');
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: [
+    'http://localhost:5173',
+    'http://localhost:3000',
+    /\.vercel\.app$/,          // allow any Vercel deployment
+  ],
+  methods: ['GET', 'POST'],
+}));
 app.use(express.json());
 
 // ── File Upload Setup ──────────────────────────────
