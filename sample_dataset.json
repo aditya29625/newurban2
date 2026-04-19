@@ -1,32 +1,12 @@
 [
-  {
-    "area_name": "Mohali Sector 70",
-    "price_growth": 12,
-    "listing_density": 150,
-    "infrastructure_score": 8
-  },
-  {
-    "area_name": "Zirakpur VIP Road",
-    "price_growth": 10,
-    "listing_density": 200,
-    "infrastructure_score": 7
-  },
-  {
-    "area_name": "Kharar Landran Road",
-    "price_growth": 8,
-    "listing_density": 120,
-    "infrastructure_score": 6
-  },
-  {
-    "area_name": "Chandigarh Sector 22",
-    "price_growth": 6,
-    "listing_density": 90,
-    "infrastructure_score": 9
-  },
-  {
-    "area_name": "Aerocity Mohali",
-    "price_growth": 14,
-    "listing_density": 180,
-    "infrastructure_score": 9
-  }
+  { "area_name": "Mohali Sector 70",     "price_growth": 12, "listing_density": 150, "infrastructure_score": 8  },
+  { "area_name": "Zirakpur VIP Road",    "price_growth": 10, "listing_density": 200, "infrastructure_score": 7  },
+  { "area_name": "Kharar Landran Road",  "price_growth":  8, "listing_density": 120, "infrastructure_score": 6  },
+  { "area_name": "Chandigarh Sector 22", "price_growth":  6, "listing_density":  90, "infrastructure_score": 9  },
+  { "area_name": "Aerocity Mohali",      "price_growth": 14, "listing_density": 180, "infrastructure_score": 9  },
+  { "area_name": "Panchkula Sector 20",  "price_growth":  5, "listing_density":  75, "infrastructure_score": 7  },
+  { "area_name": "New Chandigarh",       "price_growth": 11, "listing_density": 160, "infrastructure_score": 8  },
+  { "area_name": "Dera Bassi",           "price_growth":  3, "listing_density":  60, "infrastructure_score": 5  },
+  { "area_name": "Mullanpur New Town",   "price_growth":  9, "listing_density": 130, "infrastructure_score": 7  },
+  { "area_name": "IT Park Chandigarh",   "price_growth":  7, "listing_density": 110, "infrastructure_score": 8  }
 ]
