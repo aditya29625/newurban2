@@ -1,16 +1,18 @@
 # 🏙️ Urban Matrix AI
 ### Predictive Urban Growth Modeling for Real Estate Investment
 
-> A full-stack web application that ingests multi-source urban data, computes predictive growth scores, classifies areas by trend, and visualizes insights through an interactive dark-mode dashboard — complete with charts, data tables, and a live Leaflet map.
+> **Live Demo:** [**https://newurban2.vercel.app**](https://newurban2.vercel.app)
+
+A full-stack web application that ingests multi-source urban data, computes predictive growth scores, classifies areas by trend, and visualizes insights through an interactive dark-mode dashboard — complete with charts, data tables, and a live Leaflet map.
 
 ---
 
-## 🌐 Live Preview
+## 🌐 Live Deployment
 
-| Layer | URL |
-|-------|-----|
-| 🖥️ Frontend (local) | http://localhost:5173 |
-| ⚙️ Backend API (local) | http://localhost:5000 |
+| Component | Status | URL |
+| :--- | :--- | :--- |
+| **Frontend (Vercel)** | ✅ Live | [https://newurban2.vercel.app](https://newurban2.vercel.app) |
+| **Backend (Render)** | ✅ Live | [https://urban-matrix-backend.onrender.com](https://urban-matrix-backend.onrender.com) |
 
 ---
 
